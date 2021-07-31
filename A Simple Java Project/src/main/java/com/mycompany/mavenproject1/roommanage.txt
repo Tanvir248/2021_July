@@ -1,0 +1,2 @@
+total Room Booked: 4
+total Room Available: 36
